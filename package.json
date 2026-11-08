@@ -1,0 +1,30 @@
+{
+  "name": "crypto-maker-bbo",
+  "version": "1.0.0",
+  "description": "Universal Maker Best-Bid-Offer (BBO) execution engine for crypto trading. Eliminates Taker penalty fees with Post-Only dynamic chasing and 5-layer circuit breaker protections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/engine.test.js"
+  },
+  "keywords": [
+    "crypto",
+    "maker-bbo",
+    "bbo",
+    "post-only",
+    "trading",
+    "trading-engine",
+    "orderbook",
+    "quant",
+    "arbitrage",
+    "ccxt",
+    "binance",
+    "okx",
+    "bybit",
+    "bitget"
+  ],
+  "author": "Open Source Community",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
